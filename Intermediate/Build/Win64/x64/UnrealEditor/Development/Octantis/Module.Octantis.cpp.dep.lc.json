@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\unreal5\\octproject\\plugins\\octantis\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\octantis\\module.octantis.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\unreal5\\octproject\\intermediate\\build\\win64\\x64\\octprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\unreal5\\octproject\\plugins\\octantis\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\octantis\\definitions.octantis.h",
+            "g:\\unreal5\\octproject\\plugins\\octantis\\intermediate\\build\\win64\\unrealeditor\\inc\\octantis\\uht\\hdatool.gen.cpp",
+            "g:\\unreal5\\octproject\\plugins\\octantis\\source\\octantis\\public\\oct\\tools\\hdatool.h",
+            "g:\\unreal5\\octproject\\plugins\\octantis\\source\\octantis\\public\\oct\\tools\\toolbase.h",
+            "g:\\unreal5\\octproject\\plugins\\octantis\\intermediate\\build\\win64\\unrealeditor\\inc\\octantis\\uht\\toolbase.generated.h",
+            "g:\\unreal5\\octproject\\plugins\\octantis\\source\\octantis\\public\\oct\\ui\\octhdatoolwindow.h",
+            "g:\\unreal5\\octproject\\plugins\\octantis\\intermediate\\build\\win64\\unrealeditor\\inc\\octantis\\uht\\hdatool.generated.h",
+            "g:\\unreal5\\octproject\\plugins\\octantis\\intermediate\\build\\win64\\unrealeditor\\inc\\octantis\\uht\\octantis.init.gen.cpp",
+            "g:\\unreal5\\octproject\\plugins\\octantis\\intermediate\\build\\win64\\unrealeditor\\inc\\octantis\\uht\\octantisapp.gen.cpp",
+            "g:\\unreal5\\octproject\\plugins\\octantis\\source\\octantis\\public\\oct\\octantisapp.h",
+            "g:\\unreal5\\octproject\\plugins\\octantis\\source\\octantis\\public\\oct\\ui\\octwindow.h",
+            "g:\\unreal5\\octproject\\plugins\\octantis\\intermediate\\build\\win64\\unrealeditor\\inc\\octantis\\uht\\octantisapp.generated.h",
+            "g:\\unreal5\\octproject\\plugins\\octantis\\intermediate\\build\\win64\\unrealeditor\\inc\\octantis\\uht\\octedmodedefault.gen.cpp",
+            "g:\\unreal5\\octproject\\plugins\\octantis\\source\\octantis\\public\\oct\\octedmode\\octedmodedefault.h",
+            "g:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\tools\\uedmode.h",
+            "g:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\uedmode.generated.h",
+            "g:\\unreal5\\octproject\\plugins\\octantis\\intermediate\\build\\win64\\unrealeditor\\inc\\octantis\\uht\\octedmodedefault.generated.h",
+            "g:\\unreal5\\octproject\\plugins\\octantis\\intermediate\\build\\win64\\unrealeditor\\inc\\octantis\\uht\\toolbase.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

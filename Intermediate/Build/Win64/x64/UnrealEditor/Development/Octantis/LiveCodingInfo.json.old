@@ -1,0 +1,21 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Octantis.cpp.obj": [
+			"HdaTool.gen.cpp.obj",
+			"Octantis.init.gen.cpp.obj",
+			"OctantisApp.gen.cpp.obj",
+			"ToolBase.gen.cpp.obj",
+			"Octantis.cpp.obj",
+			"OctantisCommands.cpp.obj",
+			"OctantisStyle.cpp.obj",
+			"OctantisApp.cpp.obj",
+			"FOctEdModeCommands.cpp.obj",
+			"OctEdModeDefault.cpp.obj",
+			"HdaTool.cpp.obj",
+			"ToolBase.cpp.obj",
+			"OctHdaToolWindow.cpp.obj",
+			"OctWindow.cpp.obj"
+		]
+	}
+}
