@@ -17,9 +17,14 @@
 
 static const FName OctantisTabName("Octantis");
 
+// DECLARE_LOG_CATEGORY_EXTERN(Octantis, Log, All);
 
 
 #define LOCTEXT_NAMESPACE "FOctantisModule"
+
+
+
+
 
 void FOctantisModule::StartupModule()
 {
