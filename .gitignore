@@ -1,1 +1,3 @@
-Intermediate/ 
+Intermediate/
+/Binaries/Win64/*
+!/Binaries/Win64/*.dll
