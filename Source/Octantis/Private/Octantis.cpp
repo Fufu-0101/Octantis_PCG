@@ -54,7 +54,7 @@ void FOctantisModule::StartupModule()
 	// FEditorModeRegistry::Get().RegisterMode<>
 	// FEditorModeInfo Info={UOctEdModeDefault::EM_OctEdModeId,LOCTEXT("OctEdModeDefault", "OctEdit"),FSlateIcon(),false};
 	FEditorModeRegistry::Get().RegisterMode<FOctEdModeDefault>(FOctEdModeDefault::EM_OctEdModeId,LOCTEXT("OctEdModeDefault", "OctEdit"),FSlateIcon(),false);
-	FEditorModeRegistry::Get().RegisterMode()
+	
 }
 
 void FOctantisModule::ShutdownModule()

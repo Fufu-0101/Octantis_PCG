@@ -8,7 +8,7 @@
 // #include "OctEdModeDefault.generated.h"
 
 /**
- * 
+ * Unreal Editor Mode
  */
 
 class OCTANTIS_API FOctEdModeDefault : public FEdMode
